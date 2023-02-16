@@ -1,2 +1,0 @@
-# Edwardo.GitHub.io
-projeto

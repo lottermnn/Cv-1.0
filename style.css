@@ -76,15 +76,15 @@ body{
 }
 
 .contact-info ul li ,
-.references ul li a {
+.references ul li  {
     margin-left: 20px;
     padding: .4rem 0;
     color: #171717;
     text-decoration: none;
 }
 
-.contact-info ul li ,
-.references ul li {
+.contact-info ul li a,
+.references ul li a { 
     padding: 20px;
     width: auto;
     font-size: 18px;

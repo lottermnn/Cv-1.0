@@ -1,2 +1,2 @@
-# Edwardo.GitHub.io
-projeto
+# lottermnn.github.io/Sobre-mim
+Curriculo atualizado

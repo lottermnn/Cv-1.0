@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #909090;
+    background-color: #90dac37e;
 }
 
 .resume-contents {
@@ -66,13 +66,14 @@ body{
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    margin-left: 155px;
+    margin-left:180px;
     color: #171717;
     font-size: 20px;
 }
 
 .contact-info ul {
     padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
 
 .contact-info ul li ,
@@ -83,35 +84,41 @@ body{
     text-decoration: none;
 }
 
-.contact-info ul li a,
-.references ul li a { 
-    padding: 20px;
-    width: auto;
+.contact-info ul li a ,
+.references ul li p { 
+    padding: 180px;
+    width: 50px;
     font-size: 18px;
-    color: #f00505aa;
+    color: #8b0000ce;
 }
 
 
 .skills ul {
-    padding-top: 1.5rem;
+    padding-top: 1.6rem;
 }
-.skills ul li p {
-    padding: .4rem 0;
+.skills ul li p{
+    margin-left: 150px;
+    padding: 0.6rem 0;
     color: #171717;
 }
 
 .right-section-contents {
-    padding: 2rem 2rem;
+    margin-left: 20px;
+    padding: 2rem 3rem;
 }
 
 .right-title {
-    color: #171717
+    color: #171717;
 }
 
 .gap {
     padding-bottom: 2rem;
 }
-.about-me-contents {
+.about-me-contents p{
     font-size: 18px;
     color: #171717;
 }
+
+/*.about-me-contents p{
+    padding-left: 50px;
+}*/ 
